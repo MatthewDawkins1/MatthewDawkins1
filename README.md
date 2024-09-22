@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+**🛠️ This Page is Currently a Work In Progress...**
+
+## 💬 Let's Connect!
+I’m always open to collaboration or discussions about all things data science and machine learning! 
+
+- [LinkedIn](https://www.linkedin.com/in/mattdawkinsdataai/)
+
 <!--
 **MatthewDawkins1/MatthewDawkins1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
