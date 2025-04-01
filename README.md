@@ -1,23 +1,10 @@
-## Hi there 👋
+## Hello there! 👋  
 
-**🛠️ This Page is Currently a Work In Progress...**
+🚀 Passionate Data Scientist and former Software Developer.  
 
-## 💬 Let's Connect!
-I’m always open to collaboration or discussions about all things data science and machine learning! 
+🔬 Interested in Informed Machine Learning, particularly methods of representing domain knowledge via model architecture & training algorithm design, as well as overlaps between machine learning and other disciplines such as decision optimisation, Bayesian analysis & simulation.  
 
-- [LinkedIn](https://www.linkedin.com/in/mattdawkinsdataai/)
+🌊 Surf enthusiast (addict).  
 
-<!--
-**MatthewDawkins1/MatthewDawkins1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/mattdawkinsdataai/)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
